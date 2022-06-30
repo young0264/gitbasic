@@ -1,0 +1,19 @@
+tigers.yaml
+
+team: Tigers
+
+manager: Brenda
+
+coach : Ruth
+
+members:
+- Linda
+- William
+- David
+- George
+- Tyler
+<<<<<<< HEAD
+- Kim
+=======
+- Park
+>>>>>>> conflict
